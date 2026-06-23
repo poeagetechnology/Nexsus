@@ -1,1 +1,2 @@
-export { submitContactForm } from "./contactService.js";
+// This file is intentionally left as a stub.
+// The actual service is in contactService.js
